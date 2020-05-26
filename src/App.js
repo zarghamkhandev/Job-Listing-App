@@ -37,7 +37,7 @@ function App() {
   return (
     <div className="App">
       <header className="bg-teal-500 mb-12">
-        <img src="/images/bg-header-desktop.svg" alt="background" />
+        <img src="./images/bg-header-desktop.svg" alt="background" />
       </header>
       <div className="container m-auto">
         {filters.length > 0 && (
